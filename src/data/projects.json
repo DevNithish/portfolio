@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Calculator",
+    "imageSrc": "projects/calc.png",
+    "description": "This is a responsive web calculator that performs arithmetic operations",
+    "skills": ["HTML5", "CSS", "Javascript"],
+    "demo": "https://devnithish.github.io/calc-project/",
+    "source": "https://github.com/DevNithish/calc-project"
+  }
+]
